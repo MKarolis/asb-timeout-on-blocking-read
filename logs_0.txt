@@ -1,0 +1,432 @@
+Found orphan containers (asb-debug_cnt-15_1, asb-debug_cnt-11_1, asb-debug_cnt-14_1, asb-debug_cnt-12_1, asb-debug_cnt-13_1) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up.
+Recreating asb-debug_cnt-6_1 ... 
+Recreating asb-debug_cnt-1_1 ... 
+Recreating asb-debug_cnt-5_1 ... 
+Recreating asb-debug_cnt-8_1 ... 
+Recreating asb-debug_cnt-7_1 ... 
+Recreating asb-debug_cnt-2_1 ... 
+Recreating asb-debug_cnt-4_1  ... 
+Recreating asb-debug_cnt-9_1  ... 
+Recreating asb-debug_cnt-3_1  ... 
+Recreating asb-debug_cnt-10_1 ... 
+[10A[2KRecreating asb-debug_cnt-6_1  ... [32mdone[0m[10B[9A[2KRecreating asb-debug_cnt-1_1  ... [32mdone[0m[9B[4A[2KRecreating asb-debug_cnt-10_1 ... [32mdone[0m[4B[6A[2KRecreating asb-debug_cnt-8_1  ... [32mdone[0m[6B[8A[2KRecreating asb-debug_cnt-5_1  ... [32mdone[0m[8B[7A[2KRecreating asb-debug_cnt-2_1  ... [32mdone[0m[7B[2A[2KRecreating asb-debug_cnt-9_1  ... [32mdone[0m[2B[5A[2KRecreating asb-debug_cnt-7_1  ... [32mdone[0m[5B[1A[2KRecreating asb-debug_cnt-3_1  ... [32mdone[0m[1B[3A[2KRecreating asb-debug_cnt-4_1  ... [32mdone[0m[3BAttaching to asb-debug_cnt-6_1, asb-debug_cnt-1_1, asb-debug_cnt-10_1, asb-debug_cnt-8_1, asb-debug_cnt-5_1, asb-debug_cnt-2_1, asb-debug_cnt-9_1, asb-debug_cnt-7_1, asb-debug_cnt-3_1, asb-debug_cnt-4_1
+[36mcnt-10_1  |[0m Starting the application. Logging messages with probability 0.05...
+[35mcnt-3_1   |[0m Starting the application. Logging messages with probability 0.05...
+[33mcnt-1_1   |[0m Starting the application. Logging messages with probability 0.05...
+[32mcnt-2_1   |[0m Starting the application. Logging messages with probability 0.05...
+[32;1mcnt-7_1   |[0m Starting the application. Logging messages with probability 0.05...
+[36;1mcnt-5_1   |[0m Starting the application. Logging messages with probability 0.05...
+[33;1mcnt-6_1   |[0m Starting the application. Logging messages with probability 0.05...
+[34;1mcnt-9_1   |[0m Starting the application. Logging messages with probability 0.05...
+[35;1mcnt-8_1   |[0m Starting the application. Logging messages with probability 0.05...
+[34mcnt-4_1   |[0m Starting the application. Logging messages with probability 0.05...
+[35;1mcnt-8_1   |[0m Sending message: from 4b1883ce-9b20-4b53-80df-6a82404b9f39
+[33;1mcnt-6_1   |[0m Received message: 6c007380a08242f99dfa45abb87572ed at 2024-10-14T12:05:13.496758518
+[35;1mcnt-8_1   |[0m Sending message: from 6c7cb2f7-f456-4fab-ac50-3a0e79c8c142
+[33;1mcnt-6_1   |[0m Received message: cdb2ce6f1b5343eb82f0f49d5b481e7a at 2024-10-14T12:05:15.566839039
+[33;1mcnt-6_1   |[0m Sending message: from 673b9ce5-07c8-468c-bfb7-5702374a56b3
+[36mcnt-10_1  |[0m Received message: 738e2eae50064352b90ec3cf0e975597 at 2024-10-14T12:05:16.721131771
+[35;1mcnt-8_1   |[0m Received message: 6a190f7d2f4b411383152042f7959dc1 at 2024-10-14T12:05:16.867400611
+[36;1mcnt-5_1   |[0m Sending message: from 1cc2b825-2b90-4f76-b95a-0974ed1546dc
+[33;1mcnt-6_1   |[0m Received message: e5788605d00b4021b373b85b6f9c233d at 2024-10-14T12:05:17.428150569
+[36;1mcnt-5_1   |[0m Received message: a02d558abee341349c6ce3767b441d1b at 2024-10-14T12:05:18.004679741
+[35mcnt-3_1   |[0m Sending message: from 724eb6e4-a853-4590-bcb0-a9627952dd99
+[34mcnt-4_1   |[0m Received message: ad76e251667d4929921445fe961a8166 at 2024-10-14T12:05:18.192425211
+[33mcnt-1_1   |[0m Sending message: from a2146194-6fdd-4ee7-927e-c958821bb802
+[33;1mcnt-6_1   |[0m Sending message: from 673b9ce5-07c8-468c-bfb7-5702374a56b3
+[33;1mcnt-6_1   |[0m Sending message: from 3aecfa99-1fa7-4b65-9b29-239c3fe40ee7
+[34;1mcnt-9_1   |[0m Sending message: from 5bfbaa5e-df57-419c-8cd3-b7e9db3311ad
+[32;1mcnt-7_1   |[0m Sending message: from a482b0c0-be4c-4f07-a9f9-e0ac529c846e
+[34mcnt-4_1   |[0m Received message: aef60b2403274808b419b9c707dd5d84 at 2024-10-14T12:05:20.879376321
+[34;1mcnt-9_1   |[0m Sending message: from b5acf7f8-9bb0-4cda-b452-24e347c18fd7
+[34mcnt-4_1   |[0m Received message: 6670889543a2459c997b08f603e297ee at 2024-10-14T12:05:22.864150184
+[35mcnt-3_1   |[0m Received message: e46b8e4285b94f52aaad4d7267dd9130 at 2024-10-14T12:05:23.760161605
+[36;1mcnt-5_1   |[0m Received message: f2e7dc0cb32044c0b3b55836b9b08a12 at 2024-10-14T12:05:23.905561108
+[35mcnt-3_1   |[0m Sending message: from 724eb6e4-a853-4590-bcb0-a9627952dd99
+[36;1mcnt-5_1   |[0m Received message: 400e48308f5a43c78df8bc77c628aa7c at 2024-10-14T12:05:24.731129467
+[32;1mcnt-7_1   |[0m Received message: 16463c898ed4419b9d18c32e8f4f0863 at 2024-10-14T12:05:25.380226721
+[33mcnt-1_1   |[0m Received message: e6a980f0ce6d45a59e5d4f4311781ed5 at 2024-10-14T12:05:26.838863336
+[36mcnt-10_1  |[0m Sending message: from 18738ea3-3471-4727-ab81-25de0532bf6b
+[34;1mcnt-9_1   |[0m Sending message: from 25f1594a-cb59-4315-bc91-731df5844679
+[35;1mcnt-8_1   |[0m Received message: c1b68a1e87f241bfa7acecc184a348de at 2024-10-14T12:05:27.057979045
+[34mcnt-4_1   |[0m Received message: 2b4aefccce954ca89917474db19ac0e9 at 2024-10-14T12:05:27.850642878
+[32;1mcnt-7_1   |[0m Sending message: from 7a52dbfe-63ae-494e-877c-be94275dbaa7
+[33mcnt-1_1   |[0m Received message: 4b54985c0c014fb386dba33c56c901f5 at 2024-10-14T12:05:28.287421792
+[32;1mcnt-7_1   |[0m Received message: 64c74674c07f4372a41a9575157816ce at 2024-10-14T12:05:28.364377347
+[33mcnt-1_1   |[0m Received message: d46fcea7ad294064b6e194df91ba5647 at 2024-10-14T12:05:30.135664263
+[34;1mcnt-9_1   |[0m Sending message: from a09260f5-cb6e-4d34-922b-a36bba7c2d90
+[34;1mcnt-9_1   |[0m Sending message: from 5bfbaa5e-df57-419c-8cd3-b7e9db3311ad
+[34;1mcnt-9_1   |[0m Sending message: from a09260f5-cb6e-4d34-922b-a36bba7c2d90
+[34mcnt-4_1   |[0m Sending message: from 3a187f5e-eb41-48f3-912f-9a7ccfac8602
+[32;1mcnt-7_1   |[0m Sending message: from d27e8c48-ddb6-4414-b157-0e3b0b7dcc25
+[33mcnt-1_1   |[0m Received message: 47e2c1b71e5047d58e95d0a21a3cb2da at 2024-10-14T12:05:35.677314985
+[36;1mcnt-5_1   |[0m Received message: 460e08816ccc4673b567f21256dfe9cf at 2024-10-14T12:05:35.948744809
+[35mcnt-3_1   |[0m Sending message: from aaaab881-a4fa-45be-b2bc-5ae696656407
+[33mcnt-1_1   |[0m Sending message: from a5b2732e-d52b-4ba8-8d8d-3f891826880b
+[34;1mcnt-9_1   |[0m Sending message: from ae429ed2-1c89-4c2b-a6ed-f866343fc3be
+[36;1mcnt-5_1   |[0m Sending message: from 1cc2b825-2b90-4f76-b95a-0974ed1546dc
+[33mcnt-1_1   |[0m Sending message: from 0f75cc41-659f-40ca-8352-492eb742a2f1
+[34mcnt-4_1   |[0m Sending message: from 20f72bf1-71fd-4574-9ae5-6362a27c08b8
+[36;1mcnt-5_1   |[0m Received message: 7488d4f10d9048fbaeeee21c6ff66a15 at 2024-10-14T12:05:37.817668980
+[32;1mcnt-7_1   |[0m Sending message: from d27e8c48-ddb6-4414-b157-0e3b0b7dcc25
+[32mcnt-2_1   |[0m Sending message: from 08367a8a-67e7-4ace-b623-c44bf586ba78
+[32mcnt-2_1   |[0m Received message: 996d7bccc77e41fe86e60f9fd49a8337 at 2024-10-14T12:05:39.109661236
+[35;1mcnt-8_1   |[0m Received message: eb24979aa8b74827b82c6e456be471c2 at 2024-10-14T12:05:40.170498509
+[36mcnt-10_1  |[0m Sending message: from 18738ea3-3471-4727-ab81-25de0532bf6b
+[35;1mcnt-8_1   |[0m Received message: d3bf6cd574a04796bc1bf8696d3d73cb at 2024-10-14T12:05:41.836856740
+[35;1mcnt-8_1   |[0m Received message: 2abfdd59d8ec4cceae4ddc210963c4cd at 2024-10-14T12:05:42.100269126
+[33mcnt-1_1   |[0m Sending message: from 0f75cc41-659f-40ca-8352-492eb742a2f1
+[36;1mcnt-5_1   |[0m Received message: 9929cb321143497d9772cf66b09e734d at 2024-10-14T12:05:42.332423766
+[32mcnt-2_1   |[0m Received message: 601164e256f4456088df08f11e37e54c at 2024-10-14T12:05:42.694057364
+[36mcnt-10_1  |[0m Received message: bf722e6c8eda49d981e0023d7d224188 at 2024-10-14T12:05:42.910365875
+[34;1mcnt-9_1   |[0m Received message: 1aeacf16a44740e890c03e6bfd90b545 at 2024-10-14T12:05:43.349325912
+[35mcnt-3_1   |[0m Sending message: from bf9185ef-8d2e-4f12-aedb-efd993718d56
+[36mcnt-10_1  |[0m Sending message: from cb1c6ade-a106-4859-91f1-566165e194ba
+[34mcnt-4_1   |[0m Received message: 342b7b5da4b94257be73e561c6a9e47e at 2024-10-14T12:05:45.380150185
+[36mcnt-10_1  |[0m Received message: 46a20ab36a014043bfae75841c57af7b at 2024-10-14T12:05:45.388465735
+[35mcnt-3_1   |[0m Received message: 748ef4cbe80d4f9f86205a874f12c974 at 2024-10-14T12:05:45.513526873
+[35mcnt-3_1   |[0m Sending message: from 97275652-7a74-4a5c-b559-8f69bf4f8a91
+[33;1mcnt-6_1   |[0m Sending message: from 673b9ce5-07c8-468c-bfb7-5702374a56b3
+[36;1mcnt-5_1   |[0m Received message: 9b6822f7cf96439e86af18e87bd67eb0 at 2024-10-14T12:05:47.332734453
+[36;1mcnt-5_1   |[0m Received message: 886166e807d34d91bd33c8a844029e4f at 2024-10-14T12:05:48.936635536
+[33;1mcnt-6_1   |[0m Received message: 76f1d721b02946d7b3fe90448925e724 at 2024-10-14T12:05:49.186330683
+[35;1mcnt-8_1   |[0m Received message: 37f52d3265bd40089c1b84374fa348b7 at 2024-10-14T12:05:49.212998138
+[32mcnt-2_1   |[0m Received message: dc083778377c475092fbe432c0da3dc6 at 2024-10-14T12:05:49.454642234
+[33mcnt-1_1   |[0m Sending message: from 4732a500-8548-4659-bafd-69febc0f0c8a
+[32mcnt-2_1   |[0m Received message: c0bffc9dc3de4e78a8d2b8e19367b3db at 2024-10-14T12:05:51.866350697
+[33mcnt-1_1   |[0m Sending message: from a2146194-6fdd-4ee7-927e-c958821bb802
+[35mcnt-3_1   |[0m Received message: be4a1e3fbe0b47eaba5ae90f58437033 at 2024-10-14T12:05:55.650900891
+[33mcnt-1_1   |[0m Sending message: from 4732a500-8548-4659-bafd-69febc0f0c8a
+[34mcnt-4_1   |[0m Sending message: from 3a187f5e-eb41-48f3-912f-9a7ccfac8602
+[36;1mcnt-5_1   |[0m Sending message: from 3826d07c-6047-46ee-bcde-1200aefa2e2e
+[34;1mcnt-9_1   |[0m Sending message: from a09260f5-cb6e-4d34-922b-a36bba7c2d90
+[34mcnt-4_1   |[0m Sending message: from 20f72bf1-71fd-4574-9ae5-6362a27c08b8
+[33mcnt-1_1   |[0m Sending message: from a2146194-6fdd-4ee7-927e-c958821bb802
+[36;1mcnt-5_1   |[0m Received message: 4589e290522940d1b63867ad8577fd52 at 2024-10-14T12:05:58.573753817
+[32mcnt-2_1   |[0m Sending message: from 418de114-bc90-440c-96f5-faa959f4a652
+[35;1mcnt-8_1   |[0m Sending message: from ec431117-d1e4-4665-a6f9-6691500171b8
+[35;1mcnt-8_1   |[0m Sending message: from 1eb5d94e-ec24-4411-9dba-f2ea5de786d6
+[35;1mcnt-8_1   |[0m Received message: 2ff9009c8f5040538ac1bb4adb8dc7ba at 2024-10-14T12:06:00.362691750
+[32;1mcnt-7_1   |[0m Received message: 52b9d598ec40424cb5e845a32f3c620f at 2024-10-14T12:06:00.379329585
+[34mcnt-4_1   |[0m Sending message: from 20f72bf1-71fd-4574-9ae5-6362a27c08b8
+[34;1mcnt-9_1   |[0m Sending message: from ae429ed2-1c89-4c2b-a6ed-f866343fc3be
+[34;1mcnt-9_1   |[0m Received message: 48874e5870e6486b882d83fa5d668247 at 2024-10-14T12:06:01.802962153
+[32;1mcnt-7_1   |[0m Sending message: from a482b0c0-be4c-4f07-a9f9-e0ac529c846e
+[35mcnt-3_1   |[0m Sending message: from aaaab881-a4fa-45be-b2bc-5ae696656407
+[32mcnt-2_1   |[0m Sending message: from 418de114-bc90-440c-96f5-faa959f4a652
+[34mcnt-4_1   |[0m Sending message: from e404ac8b-dd54-499f-8399-e460722e3c20
+[35mcnt-3_1   |[0m Received message: 734fcdb74389483c8ba632056bc14615 at 2024-10-14T12:06:04.785745849
+[35;1mcnt-8_1   |[0m Sending message: from 6c7cb2f7-f456-4fab-ac50-3a0e79c8c142
+[32;1mcnt-7_1   |[0m Received message: 519ac7862ee64cbf85f20b43bea956d2 at 2024-10-14T12:06:05.361560347
+[35mcnt-3_1   |[0m Received message: 8b3e0944471a4b139b635d072b41fd5c at 2024-10-14T12:06:06.166872606
+[33;1mcnt-6_1   |[0m Sending message: from 211cf401-c8c5-4c5a-a80c-833f944d0c40
+[35;1mcnt-8_1   |[0m Received message: 33de1d02c84f492c9b6768a5ab3aba9b at 2024-10-14T12:06:08.772488270
+[35;1mcnt-8_1   |[0m Received message: 1027ccf97bda473bb0a48c143ea674c6 at 2024-10-14T12:06:09.286851426
+[35;1mcnt-8_1   |[0m Sending message: from a9e6298b-2349-431b-ac58-c6c9c0efbd03
+[33mcnt-1_1   |[0m Sending message: from a5b2732e-d52b-4ba8-8d8d-3f891826880b
+[32mcnt-2_1   |[0m Sending message: from afd17afe-fadc-4bb5-924e-a44ff380b35d
+[34;1mcnt-9_1   |[0m Received message: 3179426facb24e24a5db06103ebd4838 at 2024-10-14T12:06:14.552300565
+[36mcnt-10_1  |[0m Received message: d6ad0e3d0ae944f39720d4a66eafdbd2 at 2024-10-14T12:06:14.895379617
+[32;1mcnt-7_1   |[0m Received message: 39f7e1c2f87e462c96c40063dc4b19c4 at 2024-10-14T12:06:16.339697250
+[32;1mcnt-7_1   |[0m Sending message: from d27e8c48-ddb6-4414-b157-0e3b0b7dcc25
+[34mcnt-4_1   |[0m Sending message: from 3a187f5e-eb41-48f3-912f-9a7ccfac8602
+[34;1mcnt-9_1   |[0m Received message: 4a0b7d382618438e8daa3dc1e2b2444f at 2024-10-14T12:06:16.955152902
+[34;1mcnt-9_1   |[0m Sending message: from a09260f5-cb6e-4d34-922b-a36bba7c2d90
+[33;1mcnt-6_1   |[0m Sending message: from 3aecfa99-1fa7-4b65-9b29-239c3fe40ee7
+[36;1mcnt-5_1   |[0m Received message: 5974c7f53a5c43858d07e86a4a256fc0 at 2024-10-14T12:06:17.629017260
+[34mcnt-4_1   |[0m Sending message: from e404ac8b-dd54-499f-8399-e460722e3c20
+[36;1mcnt-5_1   |[0m Received message: 0bc4cadac5054fc495807640a74882af at 2024-10-14T12:06:18.896174049
+[32;1mcnt-7_1   |[0m Received message: 31c761a034484d2fa6508e1053914a38 at 2024-10-14T12:06:19.645254806
+[35mcnt-3_1   |[0m Sending message: from 724eb6e4-a853-4590-bcb0-a9627952dd99
+[33;1mcnt-6_1   |[0m Sending message: from 3aecfa99-1fa7-4b65-9b29-239c3fe40ee7
+[33;1mcnt-6_1   |[0m Sending message: from 0a19929f-8891-45fe-b596-c030afb43ef6
+[33mcnt-1_1   |[0m Received message: bee80da365474caab399551b4c1205f3 at 2024-10-14T12:06:21.552911971
+[35mcnt-3_1   |[0m Sending message: from bf9185ef-8d2e-4f12-aedb-efd993718d56
+[33;1mcnt-6_1   |[0m Received message: 18d8c55226b642c281cd2886e37a537f at 2024-10-14T12:06:22.280319574
+[36mcnt-10_1  |[0m Received message: 38a25959cf254595a22ae123dbbeab1d at 2024-10-14T12:06:22.452151391
+[35mcnt-3_1   |[0m Received message: 4bfedd1060b7470c92bd26843b72ee09 at 2024-10-14T12:06:22.621169955
+[32mcnt-2_1   |[0m Received message: 093a6e545cf543bb934a4a8c37e91ff6 at 2024-10-14T12:06:22.734910057
+[33;1mcnt-6_1   |[0m Received message: 92db78b8bdba4744bdb64f5cbe83965b at 2024-10-14T12:06:22.873710769
+[32;1mcnt-7_1   |[0m Received message: 6e11deca57fe44b2865b9a2d8b991a15 at 2024-10-14T12:06:24.623239314
+[32mcnt-2_1   |[0m Sending message: from 98af8fec-002f-4484-87a1-5f909c946285
+[33mcnt-1_1   |[0m Received message: c59eb628711e4b1781da86abbb99d9d7 at 2024-10-14T12:06:24.828328106
+[35mcnt-3_1   |[0m Received message: 4d7e566605a24ab3af2b62cfc7a036d6 at 2024-10-14T12:06:25.092023547
+[32mcnt-2_1   |[0m Received message: d6e00fbc62754bfab88ba9fffed440b7 at 2024-10-14T12:06:25.261763946
+[36mcnt-10_1  |[0m Sending message: from 38cd0f60-04c9-42c6-919f-c3aaa8212d91
+[32;1mcnt-7_1   |[0m Sending message: from 82656a1c-86d1-4266-825d-307949fc9b2d
+[34;1mcnt-9_1   |[0m Received message: 98910f269a3b43d3a363bc22a3405988 at 2024-10-14T12:06:26.806826781
+[35;1mcnt-8_1   |[0m Received message: 286f3ed564b848c1ba8191ca493e210f at 2024-10-14T12:06:26.922677598
+[35;1mcnt-8_1   |[0m Sending message: from 6c7cb2f7-f456-4fab-ac50-3a0e79c8c142
+[35;1mcnt-8_1   |[0m Sending message: from ec431117-d1e4-4665-a6f9-6691500171b8
+[35mcnt-3_1   |[0m Sending message: from 596138d7-6b92-4328-ac08-60da0a21f642
+[36mcnt-10_1  |[0m Received message: a76a24cc1df04750ac92f46316060f68 at 2024-10-14T12:06:28.131023330
+[33;1mcnt-6_1   |[0m Sending message: from d2447ef1-dc2c-4eb6-b421-33d4fda8c6a5
+[33mcnt-1_1   |[0m Sending message: from 4732a500-8548-4659-bafd-69febc0f0c8a
+[34mcnt-4_1   |[0m Sending message: from e404ac8b-dd54-499f-8399-e460722e3c20
+[32mcnt-2_1   |[0m Sending message: from 418de114-bc90-440c-96f5-faa959f4a652
+[32mcnt-2_1   |[0m Sending message: from 08367a8a-67e7-4ace-b623-c44bf586ba78
+[34;1mcnt-9_1   |[0m Received message: 16ab721adf8046efa7828484b331d196 at 2024-10-14T12:06:33.704467982
+[35;1mcnt-8_1   |[0m Received message: 72172217657b40debdc41faae543ac2f at 2024-10-14T12:06:33.894827635
+[36;1mcnt-5_1   |[0m Sending message: from 1cc2b825-2b90-4f76-b95a-0974ed1546dc
+[35;1mcnt-8_1   |[0m Sending message: from a9e6298b-2349-431b-ac58-c6c9c0efbd03
+[33;1mcnt-6_1   |[0m Sending message: from 211cf401-c8c5-4c5a-a80c-833f944d0c40
+[34;1mcnt-9_1   |[0m Received message: 60d4ea09e2124db3b74d741a1c12642c at 2024-10-14T12:06:36.895466974
+[33;1mcnt-6_1   |[0m Received message: 401a1497c8fb4ff6970e602696ba5006 at 2024-10-14T12:06:37.042811119
+[36mcnt-10_1  |[0m Sending message: from 18738ea3-3471-4727-ab81-25de0532bf6b
+[33mcnt-1_1   |[0m Sending message: from 4732a500-8548-4659-bafd-69febc0f0c8a
+[36;1mcnt-5_1   |[0m Sending message: from 3826d07c-6047-46ee-bcde-1200aefa2e2e
+[34mcnt-4_1   |[0m Sending message: from fe3be2d9-84d9-4eec-8549-90a5ef5609ff
+[33;1mcnt-6_1   |[0m Sending message: from 0a19929f-8891-45fe-b596-c030afb43ef6
+[34mcnt-4_1   |[0m Received message: 70f8e08b7a554c2daefc6e1ef7a2ecdc at 2024-10-14T12:06:41.806050344
+[33;1mcnt-6_1   |[0m Received message: def80d768a1d449f9f72c75eaf7a3d86 at 2024-10-14T12:06:42.690554911
+[35;1mcnt-8_1   |[0m Received message: f5a41df1356d45468d4818d4c2e75083 at 2024-10-14T12:06:44.531666207
+[34;1mcnt-9_1   |[0m Received message: b22ec110242f424a86503335d5c00114 at 2024-10-14T12:06:45.597019650
+[34;1mcnt-9_1   |[0m Received message: bb1cb62fd2a64f10a579e92d74d4c593 at 2024-10-14T12:06:46.246885905
+[34mcnt-4_1   |[0m Received message: fe01d378cfab4f8294a727bcb667f9bc at 2024-10-14T12:06:46.250599504
+[35;1mcnt-8_1   |[0m Received message: 46fb126655cd46f48e8437d4dab844eb at 2024-10-14T12:06:46.427100330
+[35mcnt-3_1   |[0m Sending message: from 97275652-7a74-4a5c-b559-8f69bf4f8a91
+[34mcnt-4_1   |[0m Received message: 2c0e740fb6bb4443a7ef0b5eec85017c at 2024-10-14T12:06:48.429952976
+[33;1mcnt-6_1   |[0m Received message: 962d447d14f747ab9a5cf482dab66a10 at 2024-10-14T12:06:49.532813574
+[32;1mcnt-7_1   |[0m Sending message: from 5e98c7d6-6632-445c-a8d3-263d0b1a9e5d
+[33mcnt-1_1   |[0m Sending message: from 4732a500-8548-4659-bafd-69febc0f0c8a
+[34;1mcnt-9_1   |[0m Sending message: from a09260f5-cb6e-4d34-922b-a36bba7c2d90
+[36;1mcnt-5_1   |[0m Sending message: from cb655799-969c-484c-8e70-ddd36465a8d5
+[34;1mcnt-9_1   |[0m Sending message: from ae429ed2-1c89-4c2b-a6ed-f866343fc3be
+[36mcnt-10_1  |[0m Received message: ab52e46fdecc4c73af9874ab1fe0d6c1 at 2024-10-14T12:07:01.611217780
+[34mcnt-4_1   |[0m Received message: 93993963d0ea467cbc10fdd7d471122e at 2024-10-14T12:07:02.066620280
+[32mcnt-2_1   |[0m Received message: 4e672e6e42984a638126511a3a58746a at 2024-10-14T12:07:02.081553684
+[36mcnt-10_1  |[0m Received message: 8347e1c7efa54c54a1ebdaf48fe492c6 at 2024-10-14T12:07:02.153865070
+[33mcnt-1_1   |[0m Sending message: from 0f75cc41-659f-40ca-8352-492eb742a2f1
+[35;1mcnt-8_1   |[0m Sending message: from ec431117-d1e4-4665-a6f9-6691500171b8
+[34;1mcnt-9_1   |[0m Sending message: from ae429ed2-1c89-4c2b-a6ed-f866343fc3be
+[36mcnt-10_1  |[0m Sending message: from 703be0e2-41af-42e9-a41a-25c2bc90dbff
+[33mcnt-1_1   |[0m Sending message: from a2146194-6fdd-4ee7-927e-c958821bb802
+[34mcnt-4_1   |[0m [pool-5-thread-1] ERROR org.example.Main - Failed to send message
+[34mcnt-4_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[34mcnt-4_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[34mcnt-4_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[34mcnt-4_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[34mcnt-4_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[34mcnt-4_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[34;1mcnt-9_1   |[0m [pool-4-thread-1] ERROR org.example.Main - Failed to send message
+[34;1mcnt-9_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[34;1mcnt-9_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[34;1mcnt-9_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[34;1mcnt-9_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[34;1mcnt-9_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[36;1mcnt-5_1   |[0m [pool-6-thread-1] ERROR org.example.Main - Failed to send message
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[36;1mcnt-5_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[34;1mcnt-9_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[36;1mcnt-5_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[36;1mcnt-5_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[36;1mcnt-5_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[36;1mcnt-5_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[36;1mcnt-5_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[36;1mcnt-5_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[36;1mcnt-5_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[36;1mcnt-5_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[36;1mcnt-5_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[36;1mcnt-5_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[35;1mcnt-8_1   |[0m [pool-5-thread-1] ERROR org.example.Main - Failed to send message
+[33;1mcnt-6_1   |[0m [pool-8-thread-1] ERROR org.example.Main - Failed to send message
+[33;1mcnt-6_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[35;1mcnt-8_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[33;1mcnt-6_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[35;1mcnt-8_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[35;1mcnt-8_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[35;1mcnt-8_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[33;1mcnt-6_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[35;1mcnt-8_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[33;1mcnt-6_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[35;1mcnt-8_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[32mcnt-2_1   |[0m [pool-6-thread-1] ERROR org.example.Main - Failed to send message
+[32mcnt-2_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[32mcnt-2_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[35;1mcnt-8_1   |[0m [pool-6-thread-1] ERROR org.example.Main - Failed to send message
+[35;1mcnt-8_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[32mcnt-2_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[32mcnt-2_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[32mcnt-2_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[32mcnt-2_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[35;1mcnt-8_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[35;1mcnt-8_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[35;1mcnt-8_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[35;1mcnt-8_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[35;1mcnt-8_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[35;1mcnt-8_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[35mcnt-3_1   |[0m [pool-7-thread-1] ERROR org.example.Main - Failed to send message
+[35mcnt-3_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[35mcnt-3_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[35mcnt-3_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[35mcnt-3_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[35mcnt-3_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[35mcnt-3_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[35mcnt-3_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[35mcnt-3_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[35mcnt-3_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[35mcnt-3_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[35mcnt-3_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[33;1mcnt-6_1   |[0m [pool-5-thread-1] ERROR org.example.Main - Failed to send message
+[33;1mcnt-6_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[33;1mcnt-6_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[33;1mcnt-6_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[33;1mcnt-6_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[33;1mcnt-6_1   |[0m [pool-7-thread-1] ERROR org.example.Main - Failed to send message
+[33;1mcnt-6_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[33;1mcnt-6_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[33;1mcnt-6_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[33;1mcnt-6_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[34;1mcnt-9_1   |[0m [pool-8-thread-1] ERROR org.example.Main - Failed to send message
+[34;1mcnt-9_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[34;1mcnt-9_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[34;1mcnt-9_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[34;1mcnt-9_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[34;1mcnt-9_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[34;1mcnt-9_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[34;1mcnt-9_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[33;1mcnt-6_1   |[0m [pool-6-thread-1] ERROR org.example.Main - Failed to send message
+[33;1mcnt-6_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[33;1mcnt-6_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[33;1mcnt-6_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[33;1mcnt-6_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[33;1mcnt-6_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[33;1mcnt-6_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[36mcnt-10_1  |[0m [pool-5-thread-1] ERROR org.example.Main - Failed to send message
+[36mcnt-10_1  |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[36mcnt-10_1  |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[36mcnt-10_1  |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[36mcnt-10_1  |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[36mcnt-10_1  |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[36mcnt-10_1  |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[36mcnt-10_1  |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[36mcnt-10_1  |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[36mcnt-10_1  |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[36mcnt-10_1  |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[36mcnt-10_1  |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[34mcnt-4_1   |[0m [pool-8-thread-1] ERROR org.example.Main - Failed to send message
+[34mcnt-4_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[34mcnt-4_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[34mcnt-4_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[34mcnt-4_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[34mcnt-4_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[34mcnt-4_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[34mcnt-4_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[32mcnt-2_1   |[0m [pool-7-thread-1] ERROR org.example.Main - Failed to send message
+[32mcnt-2_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[32mcnt-2_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[32mcnt-2_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[32mcnt-2_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[32mcnt-2_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[32mcnt-2_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[32mcnt-2_1   |[0m [pool-4-thread-1] ERROR org.example.Main - Failed to send message
+[32mcnt-2_1   |[0m java.lang.IllegalStateException: Timeout on blocking read for 17400000000 NANOSECONDS
+[32mcnt-2_1   |[0m 	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:124)
+[32mcnt-2_1   |[0m 	at reactor.core.publisher.Mono.block(Mono.java:1766)
+[32mcnt-2_1   |[0m 	at com.azure.messaging.servicebus.ServiceBusSenderClient.sendMessage(ServiceBusSenderClient.java:266)
+[32mcnt-2_1   |[0m 	at org.example.Main.lambda$schedulePublishing$1(Main.java:64)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[32mcnt-2_1   |[0m 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[32mcnt-2_1   |[0m 	at java.base/java.lang.Thread.run(Thread.java:840)
+[35;1mcnt-8_1   |[0m Sending message: from 6c7cb2f7-f456-4fab-ac50-3a0e79c8c142
+[32mcnt-2_1   |[0m Sending message: from 837ae496-579f-45c7-8696-828355464b45
+[33mcnt-1_1   |[0m Sending message: from a2146194-6fdd-4ee7-927e-c958821bb802
+[33;1mcnt-6_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[33mcnt-1_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[33mcnt-1_1   |[0m Starting the application. Logging messages with probability 0.05...
+[35;1mcnt-8_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[36;1mcnt-5_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[36mcnt-10_1  |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[32;1mcnt-7_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[32mcnt-2_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[35mcnt-3_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[34;1mcnt-9_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[34mcnt-4_1   |[0m Scheduled exit. Godbyeeeeeeeeeeeeeee...
+[33mcnt-1_1   |[0m Sending message: from 77afeca7-7c4c-4525-8493-a0b9be328c9e
+[34;1mcnt-9_1   |[0m Starting the application. Logging messages with probability 0.05...
+[32mcnt-8_1   |[0m Sending message: from 58be0d5b-f156-4d77-acf1-34b963757bd6
+[34mcnt-5_1   |[0m Received message: e7171abb1bae4f9fa09d81e98175ef1e at 2024-10-14T12:07:22.434987914
+[32mcnt-8_1   |[0m Received message: 066c4b8b431f4c2b9b6ec5304ab6c3e7 at 2024-10-14T12:07:23.143795479
+[34;1mcnt-9_1   |[0m Received message: 99771395d92349b2a9cb46e2286992a5 at 2024-10-14T12:07:23.474657899
+[36mcnt-6_1   |[0m Sending message: from 445f4fb6-85a0-477d-b641-7335337e65c3
+[35mcnt-10_1  |[0m Received message: 1cd83aec23f44808a0c50c388fa98d6a at 2024-10-14T12:07:27.720433832
+[34mcnt-5_1   |[0m Received message: 2f8b35db02394fd79b50f0c11c287080 at 2024-10-14T12:07:30.344960262
+[32mcnt-8_1   |[0m Received message: c01e0dd431f6441fb2fd6a81271f39f2 at 2024-10-14T12:07:30.991539585
+[36mcnt-6_1   |[0m Sending message: from e09e474a-8bfb-411f-b920-36790b578631
+[33mcnt-1_1   |[0m Received message: 4d078db2acff4c668876d9df549674e2 at 2024-10-14T12:07:31.764242618
+[33;1mcnt-2_1   |[0m Received message: 247e586c69ff4d0b8a0d5ceb7eb7a659 at 2024-10-14T12:07:32.062443928
+[36mcnt-6_1   |[0m Received message: 99da63685e314fd5bb1c5b1b5435c777 at 2024-10-14T12:07:32.116184398
+[33mcnt-1_1   |[0m Sending message: from 0839a829-61fe-4cd5-b9e1-16fc5991559a
+[35mcnt-10_1  |[0m Sending message: from 879a2edf-e5b0-4e42-b4b8-7b5b9944fc6c
+[36;1mcnt-7_1   |[0m Received message: fd7fa8194b8749fdbff2920f352c62eb at 2024-10-14T12:07:34.293347139
+[33;1mcnt-2_1   |[0m Received message: 685b7943927c4ed2abd5f01026d35c42 at 2024-10-14T12:07:36.313308714
+[36;1mcnt-7_1   |[0m Received message: 163ce1df91684368a66e1508d591a5f0 at 2024-10-14T12:07:36.649017133
+[33;1mcnt-2_1   |[0m Received message: c6c016a36dac4d4bb7bcac5ec3afba76 at 2024-10-14T12:07:38.553706734
+[35mcnt-10_1  |[0m Sending message: from f246f43c-8de8-4e25-8ca2-21300133946e
+[35mcnt-10_1  |[0m Sending message: from b563a3d5-bcf2-46e5-88c3-d871f7a0c37a
+[32;1mcnt-4_1   |[0m Received message: c15ed45e657a41e7accf0dbc948c1192 at 2024-10-14T12:07:38.729997840

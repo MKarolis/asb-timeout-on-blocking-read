@@ -1,0 +1,73 @@
+version: '3.5'
+
+services:
+    cnt-1:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6666:8088"
+    cnt-2:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6667:8088"
+    cnt-3:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6668:8088"
+    cnt-4:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6669:8088"
+    cnt-5:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6670:8088"
+    cnt-6:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6671:8088"
+    cnt-7:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6672:8088"
+    cnt-8:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6673:8088"
+    cnt-9:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6674:8088"
+    cnt-10:
+        image: asb-debug:latest
+        restart: always
+        env_file:
+            -   .env
+        ports:
+            - "6675:8088"

@@ -1,0 +1,27 @@
+plugins {
+    id("java")
+    id("application")
+    id 'com.gradleup.shadow' version '8.3.3'
+}
+
+group = "org.example"
+version = "1.0-SNAPSHOT"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation("com.azure:azure-messaging-servicebus:7.17.4")
+    implementation("com.azure:azure-identity:1.13.0")
+    implementation("org.slf4j:slf4j-simple:1.7.32")
+
+    testImplementation(platform("org.junit:junit-bom:5.10.0"))
+    testImplementation("org.junit.jupiter:junit-jupiter")
+}
+
+mainClassName = 'org.example.Main'
+
+tasks.test {
+    useJUnitPlatform()
+}
